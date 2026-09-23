@@ -28,7 +28,6 @@ It helps in:
 * Input and Output
 * Conditional Statements
 * Loops
-* Functions
 * Arithmetic Operations
 
 ## 📂 Project Structure
@@ -87,10 +86,10 @@ Pen           5       10      50
 Note-book     2       50      100
 
 Subtotal: ₹150
-Discount: ₹10.00
-GST: ₹16.80
+Discount(5%): ₹7.50
+GST  (18%): ₹25.65
 
-Final Total: ₹156.80
+Final Total: ₹168.15
 ```
 
 ## ✨ Features
